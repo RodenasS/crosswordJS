@@ -1,0 +1,60 @@
+body {
+  margin: 0;
+  font-family: 'Montserrat' , sans-serif;
+  text-align:center;
+
+}
+
+.container {
+	padding: 60px;
+	text-align: center;
+	background: #f57842;
+	color: white;
+
+}
+h1 {
+	font-size: 72px;
+	font-size: 3em;
+	margin: 0;
+}
+.subhead {
+  font-size: 1.1em;
+  color: white;
+}
+
+
+td{
+	margin-left: auto;
+	margin-right: auto;
+	height: 50px;
+	width: 50px;
+}
+#papildomas{
+	padding-top: 1em;
+	padding-bottom: 0.5em;
+	float: center;
+}
+
+.button{
+	height:60px;
+	width: 120px;
+	margin-left: 10px;
+
+}
+#puzzletable{	
+	border-collapse: collapse;
+	float: left;
+	margin-left: 50px;
+}
+.inputBox{
+		width: 50px;
+		height:50px;
+		text-align: center;
+}
+#Klausimai{
+	width: 750px;
+	float: right;
+	padding-top: -50px;
+
+
+}
